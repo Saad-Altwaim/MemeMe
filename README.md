@@ -1,6 +1,8 @@
 # MemeMe
 this  App enables a user to take a picture, and add text at the top and bottom to form Or create a meme, 
 and share that meme on Facebook and Twitter and also by SMS or email.
+
+
 the main App screen 
 
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-04-14 at 04 58 28](https://user-images.githubusercontent.com/57073911/163299340-cd34cdf4-5401-4398-bf58-b299f539e87c.png)
