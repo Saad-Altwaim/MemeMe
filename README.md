@@ -5,9 +5,11 @@ and share that meme on Facebook and Twitter and also by SMS or email.
 
 the main App screen 
 
+press + to open  the photo library
+
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-04-14 at 04 58 28](https://user-images.githubusercontent.com/57073911/163299340-cd34cdf4-5401-4398-bf58-b299f539e87c.png)
 
-press + to open  the photo library
+chose the photo library
 
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-04-14 at 05 00 52](https://user-images.githubusercontent.com/57073911/163299658-ee1ec326-84c4-41f9-8005-1ea7bb968d22.png)
 
